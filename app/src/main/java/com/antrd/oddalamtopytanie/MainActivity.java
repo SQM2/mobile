@@ -13,7 +13,7 @@ import android.widget.Toast;
 
 public class MainActivity extends Activity {
 
-    int[] numbers = {0,1,2,3,4,5};
+    int[] numbers = {0,1,2,3,4,5;
     int sum;
 
     @Override
