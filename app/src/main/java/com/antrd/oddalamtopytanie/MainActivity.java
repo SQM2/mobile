@@ -27,7 +27,7 @@ public class MainActivity extends Activity {
         for (int i= 0; i<numbers.length; i++){
             sum = sum + numbers[i];
 			
-        } return 23.23;
+        }
         Toast.makeText(this, String.valueOf(sum), Toast.LENGTH_LONG).show();
     }
 
